@@ -25,9 +25,9 @@ Local setup: `pip install -r requirements.txt`.
 
 ## Main projects
 
-- [visual-product-search](https://github.com/1999juggernaut/visual-product-search): photo → exact SKU, embeddings + vision-LLM re-ranking, MCP tool
-- [salesforce-llm-document-pipeline](https://github.com/1999juggernaut/salesforce-llm-document-pipeline): async Salesforce → FastAPI → Docling → LLM pipeline
-- [yolov8-fall-detection](https://github.com/1999juggernaut/yolov8-fall-detection): real-time fall detection, mAP@50 0.909
+- [visual-product-search](https://github.com/sudhanshu-1999/visual-product-search): photo → exact SKU, embeddings + vision-LLM re-ranking, MCP tool
+- [salesforce-llm-document-pipeline](https://github.com/sudhanshu-1999/salesforce-llm-document-pipeline): async Salesforce → FastAPI → Docling → LLM pipeline
+- [yolov8-fall-detection](https://github.com/sudhanshu-1999/yolov8-fall-detection): real-time fall detection, mAP@50 0.909
 
 ## License
 
